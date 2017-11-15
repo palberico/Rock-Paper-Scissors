@@ -92,7 +92,4 @@ function winner(playerChoice){ //playerChoice is defined by lines 8-18
     }  
     } 
     
-    //create variable to grab random element from computerChoice array - DONE
-    //switch (in ruby, a case statement) comparing the aforementioned variable to the playerChoice
-    //and then, a) console.log the winner
-    // or b) print to screen using document.getElementById("tellMeSomething")
+ 
